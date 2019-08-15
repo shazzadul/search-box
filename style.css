@@ -1,0 +1,12 @@
+
+.container{
+    margin: o auto;
+    width:600px;
+    background: #ddd;
+    padding: 10px;
+}
+
+textarea{
+    height: 300px;
+    width: 100%;
+}
